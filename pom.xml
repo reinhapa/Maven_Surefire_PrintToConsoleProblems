@@ -20,7 +20,7 @@
         <artifactId>maven-surefire-plugin</artifactId>
 <!--        <version>2.22.2</version>-->
 <!--        <version>3.0.0-M5</version>-->
-        <version>3.0.0-M6-SNAPSHOT</version>
+        <version>3.0.0-M5</version>
         <configuration>
           <argLine>-verbose:class</argLine>
 
