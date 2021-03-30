@@ -22,7 +22,7 @@
 <!--        <version>3.0.0-M5</version>-->
         <version>3.0.0-M5</version>
         <configuration>
-          <argLine>-verbose:class</argLine>
+<!--          <argLine>-verbose:class</argLine>-->
 
           <!-- Fix for "[WARNING] Corrupted STDOUT by directly writing to native stream in forked JVM" -->
           <!-- FIXME:
